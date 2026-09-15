@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+runtime_comparison.png
+rules_comparison.png
+association_comparison.csv
